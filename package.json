@@ -1,0 +1,22 @@
+{
+  "name": "readme_gen2",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadeleineA42/readme_gen2.git"
+  },
+  "author": "Madeleine Abraham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadeleineA42/readme_gen2/issues"
+  },
+  "homepage": "https://github.com/MadeleineA42/readme_gen2#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
