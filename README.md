@@ -28,3 +28,6 @@ THEN I am taken to the corresponding section of the README
 
 ## Mockup of final product
 <img src="images/Screenshot 2023-09-17 at 4.28.02 PM.png" alt="mockup of readme">
+
+## Video Walkthrough
+Click <a href="https://drive.google.com/file/d/1tOCQ0rz1Qon5KWbh3j_AD_R3YkbHaJRe/view">here</a> to view the video walkthrough
